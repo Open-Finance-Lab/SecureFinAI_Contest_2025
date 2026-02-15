@@ -7,7 +7,6 @@ weight: 1
 
 <div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: center; gap: 1em; padding: 2em">
   <img style="width: 40%;" src="https://github.com/Open-Finance-Lab/SecureFinAI_Contest_2025/blob/main/docs/assets/logos/acm_icaif.png?raw=true" alt="ACM ICAIF Logo">
-  <img style="width: 30%;" src="https://github.com/Open-Finance-Lab/SecureFinAI_Contest_2025/blob/main/docs/assets/logos/securefinai_cu.png?raw=true" alt="SecureFinAI Lab Logo">
   <img style="width: 30%;" src="https://github.com/Open-Finance-Lab/SecureFinAI_Contest_2025/blob/main/docs/assets/logos/finai.png?raw=true" alt="The Fin AI Logo">
 </div>
 
